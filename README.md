@@ -7,7 +7,7 @@ Kelas   : TI.20.A.1
 Matkul  : Pemrograman Mobile
 ```
 
-```UAS Pemrograman Mobile yang menggabungkan penggunaan API dengan Flutter untuk membuat aplikasi mobile. Dalam proyek ini, saya akan menggunakan Flutter untuk mengonsumsi dan menampilkan data dari API yang tersedia.```
+```  UAS Pemrograman Mobile yang menggabungkan penggunaan API dengan Flutter untuk membuat aplikasi mobile. Dalam proyek ini, saya akan menggunakan Flutter untuk mengonsumsi dan menampilkan data dari API yang tersedia.```
 
 ## Install Aplikasi
 
@@ -15,19 +15,19 @@ Matkul  : Pemrograman Mobile
 ```shell
 https://flutter.dev/
 ```
-3. Clone repositori ini ke dalam direktori lokal Anda:
+2. Clone repositori ini ke dalam direktori lokal Anda:
 ```shell
 git clone https://github.com/nama-pengguna/repo-api-flutter.git
 ```
-4. Masuk ke direktori proyek:
+3. Masuk ke direktori proyek:
 ```shell
 cd repo-api-flutter
 ```
-6. Jalankan perintah berikut untuk menginstal dependensi yang diperlukan:
+4. Jalankan perintah berikut untuk menginstal dependensi yang diperlukan:
 ```shell
 flutter pub get
 ```
-8. API yang saya gunakan adalah ```https://booking.kai.id/api/stations2```
+5. API yang saya gunakan adalah ```https://booking.kai.id/api/stations2```
 
 
 ## Hasil Output
