@@ -1,5 +1,5 @@
 ## UAS-Flutter-API
-UAS Pemrograman Mobile - Semester 6
+**UAS Pemrograman Mobile - Semester 6**
 ```
 Nama    : Ahmad Fadhiil Muttaqin
 NIM     : 312010615
